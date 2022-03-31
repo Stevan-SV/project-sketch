@@ -1,0 +1,17 @@
+{
+    "name": "root/project-sketch",
+    "description": "Test",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/src/",
+            "ArticleStock\\": "Module/ArticleStock/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stevan Vujasinovic",
+            "email": "vujasinovicst@gmail.com"
+        }
+    ],
+    "require": {}
+}
